@@ -1,4 +1,4 @@
-# <test2.py>
+# <main.py>
 
 from machine import Pin
 import time

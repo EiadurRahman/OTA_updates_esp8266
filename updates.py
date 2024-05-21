@@ -1,4 +1,4 @@
-filename = 'test2'
+# <test2.py>
 
 from machine import Pin
 import time
